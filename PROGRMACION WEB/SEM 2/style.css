@@ -1,0 +1,18 @@
+h1{
+    color: #F00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 32px;
+}
+
+p{
+    color: #00F;
+    background: #CFC;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px ;
+}
+
+h2{
+    color: #A00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 24px;
+}
